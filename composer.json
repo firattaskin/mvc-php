@@ -1,0 +1,14 @@
+{
+    "require": {
+    	"windwalker/edge" : "~3.0",
+        "illuminate/database": "^5.8"
+    },
+    "autoload": {
+    	"psr-4":{
+            "System\\" : "system",
+    		"Router\\" : "system/Router",
+    		"Controllers\\" : "app/controllers",
+    		"Models\\" : "app/models"
+    	}
+    }
+}
