@@ -1,1 +1,1 @@
-PHP MWC project files
+PHP MVC project files
